@@ -10,7 +10,7 @@ A comprehensive reference guide for software developers and security professiona
 - Mobile-responsive design
 
 ## 🚀 Live Demo
-Visit: https://yourusername.github.io/freelance-opportunities-guide
+Visit: https://mbennett-labs.github.io/freelance-opportunities-guide
 
 ## 💡 About
 This guide helps developers with security backgrounds find the highest-paying freelance work by leveraging their unique skill combination.
